@@ -1,0 +1,1 @@
+Fix this broken HTML/CSS pricing card and refactor it into a reusable component with a better layout, responsive design, and working button hover effect.
